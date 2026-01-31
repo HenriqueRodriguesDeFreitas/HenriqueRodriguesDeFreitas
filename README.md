@@ -14,10 +14,10 @@ Atualmente, desenvolvo **projetos próprios** para consolidar minha base técnic
 
 <p align="left">
   <a href="https://github.com/HenriqueRodriguesDeFreitas">
-    <img src="https://img.shields.io/badge/GitHub-HenriqueRodriguesDeFreitas-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-HenriqueRodriguesDeFreitas-181717?style=for-the-badge&logo=github"/>
   </a>
   <a href="https://www.linkedin.com/in/henrique-rodrigues-15b1bb37a">
-  <img src="https://img.shields.io/badge/LinkedIn-Paulo%20Henrique-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Paulo%20Henrique-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </p>
@@ -73,11 +73,9 @@ Atualmente, desenvolvo **projetos próprios** para consolidar minha base técnic
 ## 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HenriqueRodriguesDeFreitas&show_icons=true&theme=tokyonight
-  " />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HenriqueRodriguesDeFreitas&show_icons=true&theme=tokyonight"/>
 
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HenriqueRodriguesDeFreitas&layout=compact&theme=tokyonight
-  " />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HenriqueRodriguesDeFreitas&layout=compact&theme=tokyonight"/>
 
 </p>
 
