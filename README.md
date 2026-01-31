@@ -72,12 +72,14 @@ Atualmente, desenvolvo **projetos próprios** para consolidar minha base técnic
 
 ## 📊 Estatísticas do GitHub
 
-<p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HenriqueRodriguesDeFreitas&show_icons=true&theme=tokyonight"/>
-
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HenriqueRodriguesDeFreitas&layout=compact&theme=tokyonight"/>
-
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HenriqueRodriguesDeFreitas&show_icons=true&theme=tokyonight" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HenriqueRodriguesDeFreitas&layout=compact&theme=tokyonight" />
+</p>
+
 
 ---
 
