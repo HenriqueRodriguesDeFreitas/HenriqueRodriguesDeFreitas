@@ -58,23 +58,15 @@ Foco em **APIs REST com Java e Spring Boot**, **testes automatizados** e **códi
 
 ## 📌 Projetos em destaque
 
-### 🛒 Frente de Caixa Online (Fullstack)
-API REST em Spring Boot para vendas e controle de caixa, com persistência em PostgreSQL, migrações com Flyway e ampla cobertura de testes unitários.
-**Stack:** Java · Spring Boot · PostgreSQL · Flyway · JUnit · Mockito
-🔗 [Ver repositório](https://github.com/HenriqueRodriguesDeFreitas/NOME-DO-REPOSITORIO)
-
-### 💸 ArenaPay (em documentação)
+### 💸 ArenaPay (em desenvolvimento)
 Plataforma de matchmaking e apostas de e-sports com **escrow**: o valor dos jogadores fica retido até a validação do resultado, com máquina de estados e transações simulando Pix via webhook/sandbox.
 **Stack:** Java · Spring Boot · Spring Security · PostgreSQL · Flyway
-🔗 [Ver repositório](https://github.com/HenriqueRodriguesDeFreitas/NOME-DO-REPOSITORIO)
+🔗 [Ver repositório](https://github.com/HenriqueRodriguesDeFreitas/ArenaPay)
 
-### 🚗 Smart Parking Sensor (Web)
-MVP de gerenciamento de vagas online que usa visão computacional básica para detectar o status das vagas pela variação de cor dos pixels.
-🔗 [Ver repositório](https://github.com/HenriqueRodriguesDeFreitas/NOME-DO-REPOSITORIO)
+📅 GerencIA (em desenvolvimento)
 
-### ⚔️ Blasphemous-like Demo (Java)
-Jogo de plataforma 2D com **LibGDX**, voltado ao estudo de algoritmos de caminhos e IA de inimigos baseada em Teoria dos Grafos.
-🔗 [Ver repositório](https://github.com/HenriqueRodriguesDeFreitas/NOME-DO-REPOSITORIO)
+Assistente de agenda que funciona direto no WhatsApp. O usuário envia um texto ou áudio, como "corte de cabelo amanhã às 15h", e a IA identifica o compromisso, a data e o horário, salva no banco de dados e sincroniza com o Google Agenda. Também é possível consultar, alterar o status e excluir compromissos pela própria conversa. Pensado para profissionais autônomos, como barbeiros, manicures e tatuadores. Stack: Java 21 · Spring Boot · Spring Security · PostgreSQL · Flyway · Gemini API · WhatsApp Cloud API (Meta) · Groq Whisper (transcrição de áudio) 🔒 Repositório privado 🔗 Cadastro: em breve
+
 
 ---
 
